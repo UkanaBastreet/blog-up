@@ -1,0 +1,11 @@
+{
+  "FirebaseOptions": {
+    "apiKey": "AIzaSyBBK2CcDSZfM8uP-d3Flm5TZEkX-_dcwyo",
+    "authDomain": "blog-up-b3b4d.firebaseapp.com",
+    "projectId": "blog-up-b3b4d",
+    "storageBucket": "blog-up-b3b4d.appspot.com",
+    "messagingSenderId": "591143615531",
+    "appId": "1:591143615531:web:695fef362703594cc83e6e"
+  },
+  "db-url": "https://blog-up-b3b4d-default-rtdb.firebaseio.com/"
+}
